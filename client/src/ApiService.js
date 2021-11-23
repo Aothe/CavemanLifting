@@ -1,7 +1,5 @@
 const BASE_URL = 'http://localhost:3001';
 
-// import ApiKey from './ApiKey';
-
 function mapRequest(path) {
   return fetch(path)
     .then((res) => (res.status < 400 ? res : Promise.reject()))
