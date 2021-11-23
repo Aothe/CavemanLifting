@@ -1,4 +1,4 @@
-const BASE_URL = 'http://80.233.42.131:3001';
+const BASE_URL = 'https://80.233.42.131:3001';
 
 function mapRequest(path) {
   return fetch(path)
