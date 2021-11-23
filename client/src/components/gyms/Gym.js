@@ -9,7 +9,8 @@ import mapboxgl from '!mapbox-gl';
 // Pls don't hate me for how messy this is
 
 export default function Gym() {
-  mapboxgl.accessToken = ApiKey;
+  mapboxgl.accessToken = process.env.REACT_APP_MAP_KEY;
+  // mapboxgl.accessToken = ApiKey;
 
   const mapContainer = useRef(null);
   const map = useRef(null);
