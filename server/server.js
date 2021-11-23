@@ -6,7 +6,11 @@ const db = require('./models');
 
 const PORT = 3001;
 
-app.use(cors());
+app.use(
+  cors({
+    origin: true,
+  })
+);
 app.use(express.json());
 app.use(router);
 
