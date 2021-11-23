@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from 'react';
 
 import ApiService from '../../ApiService';
 import './Gym.css';
-import ApiKey from '../../ApiKey';
+// import ApiKey from '../../ApiKey';
 
 import mapboxgl from '!mapbox-gl';
 
