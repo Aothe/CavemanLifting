@@ -8,5 +8,8 @@ router.post('/exercise', caveman.postWorkout);
 router.put('/addinfo/:id', caveman.addInfo);
 router.get('/user/:id', caveman.getUser);
 router.get('/workoutinfo', caveman.getWorkoutInfo);
+router.get('/', () => {
+  return res.sendStatus(200);
+});
 
 module.exports = router;
