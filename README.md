@@ -5,6 +5,8 @@
 ## CavemanLifting
 
 An app for both beginner and experienced lifters to track progression with a myriad of different metrics
+- Track lifting improvements over extended periods of time
+- View previous workouts and comments attached
 
 ## Getting started
 
