@@ -4,6 +4,8 @@
 
 ## CavemanLifting
 
+An app for both beginner and experienced lifters to track progression with a myriad of different metrics
+
 ## Getting started
 
 1. Clone the repo
@@ -48,3 +50,7 @@ To be done, script for populating DB
 - Other dependencies:
   - [MapboxGL](https://www.mapbox.com/mapbox-gljs)
   - [ReCharts](https://recharts.org/)
+
+## Developers
+
+- Liam Morris - [GitHub](https://github.com/Aothe) - [LinkedIn](https://www.linkedin.com/in/liam-morris-234189161/)
