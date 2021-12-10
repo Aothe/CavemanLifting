@@ -41,5 +41,10 @@ To be done, script for populating DB
 ## Tech Stack
 
 - [React](https://reactjs.org/)
+- [ChakraUI](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
+
+- Other dependencies:
+  - [MapboxGL](https://www.mapbox.com/mapbox-gljs)
+  - [ReCharts](https://recharts.org/)
