@@ -28,6 +28,6 @@ nodemon
 4. Start development server
 
 ```
-follow steps 2 through 3, using cd client instead of server
+follow steps 1 through 3, using cd client instead of server
 use npm start in place of nodemon
 ```
