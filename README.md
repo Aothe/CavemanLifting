@@ -31,3 +31,15 @@ nodemon
 follow steps 1 through 3, using cd client instead of server
 use npm start in place of nodemon
 ```
+
+4. Populate DB
+
+```
+To be done, script for populating DB
+```
+
+## Tech Stack
+
+- [React](https://reactjs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Express](https://expressjs.com/)
