@@ -55,4 +55,4 @@ To be done, script for populating DB
 
 ## Developers
 
-- Liam Morris - [GitHub](https://github.com/Aothe) - [LinkedIn](https://www.linkedin.com/in/liam-morris-234189161/)
+- Liam Morris - [GitHub](https://github.com/Aothe) - [LinkedIn](https://www.linkedin.com/in/liam--morris/)
