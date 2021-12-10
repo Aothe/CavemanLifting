@@ -1,4 +1,4 @@
-const BASE_URL = 'https://cw-solo-lifting.herokuapp.com:3001';
+const BASE_URL = 'https://localhost:3001';
 
 function mapRequest(path) {
   return fetch(path)

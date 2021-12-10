@@ -5,6 +5,11 @@ const theme = extendTheme({
     heading: 'Inter',
     body: 'Ubuntu',
   },
+  colors: {
+    brand: {
+      100: '#eee',
+    },
+  },
 });
 
 export default theme;

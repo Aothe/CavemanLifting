@@ -14,13 +14,10 @@ import {
   Profile,
   WorkoutInfo,
 } from './components/index';
-// import WorkoutInfo from './components/profile/Profile';
 
 import ApiService from './ApiService';
 
 function App() {
-  // eslint-disable-next-line no-unused-vars
-  const [user, setUser] = useState('');
   const [userData, setUserData] = useState({});
   const [workouts, setWorkouts] = useState([]);
   const [workoutCards, setWorkoutCards] = useState([]);
@@ -75,7 +72,6 @@ function App() {
         );
         console.log(filteredArr);
         const newList = [workout, ...filteredArr];
-        // is needed (?) addInfo watches state
 
         newList.sort((a, b) => sortByDate(b, a));
         console.log(newList);

@@ -13,7 +13,7 @@ export default function SessionList({ workouts, toggleDetailsForm }) {
       h="100vh"
       w="100%"
       align="center"
-      // justify="space-around"
+      
       pt="1.5rem"
       direction="column"
       overflowY="scroll"

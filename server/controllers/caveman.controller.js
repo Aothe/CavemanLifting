@@ -14,7 +14,6 @@ const getUser = async (req, res) => {
 
 const getWorkouts = async (req, res) => {
   // Standard get request routing
-  console.log('Gucci');
   try {
     const workouts = await Workout.find();
     res.status(200).send(workouts);
