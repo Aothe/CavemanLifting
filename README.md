@@ -5,6 +5,8 @@
 ## CavemanLifting
 
 An app for both beginner and experienced lifters to track progression with a myriad of different metrics
+- Track lifting improvements over extended periods of time
+- View previous workouts and comments attached
 
 ## Getting started
 
@@ -53,4 +55,4 @@ To be done, script for populating DB
 
 ## Developers
 
-- Liam Morris - [GitHub](https://github.com/Aothe) - [LinkedIn](https://www.linkedin.com/in/liam-morris-234189161/)
+- Liam Morris - [GitHub](https://github.com/Aothe) - [LinkedIn](https://www.linkedin.com/in/liam--morris/)
