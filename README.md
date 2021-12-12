@@ -8,6 +8,13 @@ An app for both beginner and experienced lifters to track progression with a myr
 - Track lifting improvements over extended periods of time
 - View previous workouts and comments attached
 
+<p align="center">
+  <img src="__screens/Dashboard.png" />
+  <img src="__screens/Profile.png" />
+  <img src="__screens/Workouts.png" />
+  <img src="__screens/Gyms.png" />
+</p>
+
 ## Getting started
 
 1. Clone the repo
