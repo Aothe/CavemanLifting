@@ -95,7 +95,10 @@ export default function WorkoutComparison({ workouts }) {
       const day = splitDate[2].slice(0, 2);
       const month = Number(splitDate[1]) - 1;
 
-      if (month === new Date().getMonth() && session.routine.length > 0) {
+      if (
+        // month === new Date('November 1, 2021 00:00:00') &&
+        session.routine.length > 0
+      ) {
         for (let workout of session.routine) {
           if (
             workout.lift === 'Deadlift' ||
@@ -106,6 +109,7 @@ export default function WorkoutComparison({ workouts }) {
           ) {
             const theOne = workout.lift;
             workoutData[Number(day) - 1][theOne] = workout.weight;
+
             switch (theOne) {
               case 'Deadlift':
                 organisedPieData[0].value += 1;
