@@ -9,10 +9,10 @@ An app for both beginner and experienced lifters to track progression with a myr
 - View previous workouts and comments attached
 
 <p align="center">
-  <img src="__screens/Dashboard.png" />
-  <img src="__screens/Profile.png" />
-  <img src="__screens/Workouts.png" />
-  <img src="__screens/Gyms.png" />
+  <img src="__screens/Dashboard.PNG" />
+  <img src="__screens/Profile.PNG" />
+  <img src="__screens/Workouts.PNG" />
+  <img src="__screens/Gyms.PNG" />
 </p>
 
 ## Getting started
